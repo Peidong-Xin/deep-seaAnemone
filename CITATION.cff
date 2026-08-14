@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release and the associated article."
+title: "Code supporting Evolutionary patterns and repeated adaptive strategies of deep-sea anemones"
+type: software
+authors:
+  - family-names: "Xin"
+    given-names: "Peidong"
+    affiliation: "Northwestern Polytechnical University"
+  - family-names: "Feng"
+    given-names: "Chenguang"
+    affiliation: "Northwestern Polytechnical University"
+version: 1.0.0
+date-released: 2026-08-14
+repository-code: "https://github.com/Peidong-Xin/deep-seaAnemone"
+url: "https://github.com/Peidong-Xin/deep-seaAnemone"
+abstract: >-
+  Command reference and analysis scripts accompanying the study of evolutionary
+  patterns and repeated adaptive strategies in deep-sea anemones. The repository
+  documents genome and transcriptome processing and the identification of
+  deep-sea-specific amino acid variants and genes.
+keywords:
+  - deep-sea anemones
+  - Actiniaria
+  - comparative genomics
+  - phylogenomics
+  - deep-sea-specific genes
+  - reproducible research
