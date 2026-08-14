@@ -1,2 +1,0 @@
-## 00.basic.sh.code_methods-aligned.docx provides a curated set of bioinformatics commands aligned with the STAR Methods, covering read quality control, genome and transcriptome assembly, repeat and gene annotation, expression analysis, and phylogenetic inference. Software versions and explicitly reported parameters have been incorporated wherever available, while file paths, computational resources, and sample-specific settings should be adjusted as needed.
-## 01.sitecheck.zip provides scripts for identifying deep-sea-specific genes (DSGs).
